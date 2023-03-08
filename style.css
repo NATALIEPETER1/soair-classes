@@ -1,0 +1,251 @@
+.nav-item{
+    display: inline-block;
+    margin-left: 30px;
+}
+.nav-link{
+   text-decoration: none;
+   color: rgb(30, 30, 88);
+   margin-top: 20px;
+   margin-left: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: rgb(1, 1, 14);
+}
+.login {
+    text-decoration: none;
+   color: rgb(30, 30, 88);
+   border-radius: 30px;
+   border: 2px solid rgb(30, 30, 88);
+   background-color: #fff;
+   padding: 1px 30px;
+   margin-top: 20px;
+   
+   
+   
+}
+.body1{
+    text-align: center;
+    margin-bottom: 10px;
+    /* position: relative; */
+}
+/* .thoughts {
+    content: '';
+    height: 20px;
+    width: 100px;
+    color: #0A2640;
+    position: absolute; 
+    
+}*/
+
+.body2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lion{
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 23px;
+    padding: 10px;
+    height: 150px;
+}
+.intro{
+    display: flex;
+}
+.tola{
+    border: 1px solid white;
+    padding: 10px;
+    width: 30px;
+    border-radius: 280px;
+    height: 30px;
+}
+.mat{
+    display: flex;
+    
+    
+}
+.nat{
+    font-size: 10px;
+    color: gray;
+}
+.lot{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.intro1{
+    display: flex;
+}
+
+.para{
+    margin-left: 20px;
+}
+.body3{
+    margin-left: 30px;
+}
+.got{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.natalie{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+.lin{
+    height: 100px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 150px;
+}
+.paran{
+    display: flex;
+}
+.matrass{
+    margin-bottom: 10px;
+}
+.space{
+    margin-left: 300px;
+}
+.catrass{
+    margin-bottom: 100px;
+}
+.computer{
+    margin-top: 35px;
+}
+.niger{
+    margin-bottom: 40px;
+}
+.more{
+    /* margin-left: 50px;
+    color: rgb(30, 30, 88);
+   
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: 100;
+    padding-right: 30px;
+    border: 2px solid rgb(30, 30, 88); */
+    text-decoration: none;
+   color: rgb(30, 30, 88);
+   border-radius: 30px;
+   border: 2px solid rgb(30, 30, 88);
+   background-color: #fff;
+   padding: 1px 30px;
+   margin-top: 20px;
+   font-size: 15px;
+   padding-right: 40px;
+   border: none;
+
+
+}
+.plate{
+    background-color:rgb(30, 30, 88) ;
+    padding: 50px;
+    
+
+}
+.temp{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+
+}
+.church{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.school{
+    text-decoration: none;
+     color:black;
+     border: 1px solid blue;
+     padding: 5px 25px;
+     background-color:white ;
+     border-radius:15px ;
+     font-weight: 400;
+     font-size: 19px;
+     margin-left: 400px;
+
+
+}
+    /* border: #fff 1px solid;
+    border-radius: 20px;
+    background-color: #fff;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 500px;
+    font-size: 15px;
+} */
+
+.lesson{
+    /* border: green 1px solid;
+    border-radius: 20px;
+    background-color: rgb(45, 145, 45);
+    text-decoration: none;
+    margin-left: 600px; */
+    text-decoration: none;
+     color: #0A2640;
+     border: 1px solid rgb(30, 30, 88);
+     padding: 5px 25px;
+     background-color:#65E4A3;
+     border-radius:15px ;
+     font-weight: 400;
+     font-size: 19px;
+}
+input[type="email"] {
+    border-radius: 50px;
+    outline: none;
+    margin-right: 15px;
+    border: none;
+
+}
+.footer{
+    
+}
+.chika{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 50px;
+}
+.ending{
+    padding-left: 100px;
+    color: gray;
+    text-decoration: none;
+
+}
+.bright{
+    border-radius: 20px;
+    background-color:#65E4A3;
+    color: #0A2640;
+    padding-left: 6px;
+    border: none;
+
+}
+.flist li{
+    list-style: none;
+    padding-bottom: 10px;
+}
+.chin{
+    color: gray;
+}
+.tolu{
+    padding: 5px 20px;
+    border-radius: 50px;
+    background-color: #fff;
+    border-color: #0A2640;
+}
+.wani{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
